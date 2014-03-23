@@ -1,0 +1,7 @@
+{
+    // --------------------------------------------------------------------
+    // JSHint Configuration
+    // Need comma separation for the other settings 
+    "smarttabs"     : true    // Tolerate mixed tabs and spaces when the latter are used for alignmnent only.
+
+}
