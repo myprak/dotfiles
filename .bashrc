@@ -223,5 +223,14 @@ fi
 ## -- 3) User-customized code  --
 ## ------------------------------
 
+# Virtualenvwrapper bash setup code
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Devel
+source /etc/bash_completion.d/virtualenvwrapper
+
+
+
+
+
 ## Define any user-specific variables you want here.
 source ~/.bashrc_custom
